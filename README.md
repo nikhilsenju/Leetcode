@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/nikhilsenju/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/nikhilsenju/Leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/nikhilsenju/Leetcode/tree/master/0859-design-circular-deque) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/nikhilsenju/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/nikhilsenju/Leetcode/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/nikhilsenju/Leetcode/tree/master/0729-my-calendar-i) |
 ## Linked List
 |  |
@@ -87,5 +90,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/nikhilsenju/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
