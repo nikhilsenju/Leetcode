@@ -19,34 +19,23 @@ public:
                 if (node->left) q.push(node->left);
                 if (node->right) q.push(node->right);
             }
-
-            // Map to store original indices
-            vector<pair<int, int>> arr;
-            for (int i = 0; i < curr.size(); i++) {
-                arr.push_back({curr[i], i});
+            map<int,int> mp;
+            for(int i=0;i<curr.size();i++){
+                mp[curr[i]]=i;
             }
-
-            // Sort the array based on values
-            sort(arr.begin(), arr.end());
-
-            // Count the number of swaps needed to sort
-            vector<bool> visited(curr.size(), false);
-            for (int i = 0; i < arr.size(); i++) {
-                // If already visited or in correct position
-                if (visited[i] || arr[i].second == i) continue;
-
-                // Count the size of the cycle
-                int cycle_size = 0, j = i;
-                while (!visited[j]) {
-                    visited[j] = true;
-                    j = arr[j].second;
-                    cycle_size++;
+            vector<int> tar = curr;
+            sort(tar.begin(),tar.end());
+            for(int i=0;i<tar.size();i++){
+                if(mp[tar[i]]!=i){
+                    ans++;
+                    int x = mp[tar[i]];
+                    int y = mp[curr[i]];
+                    mp[tar[i]]=y;
+                    mp[curr[i]]=x;
+                    swap(curr[x],curr[y]);
                 }
 
-                // If there's a cycle, add (cycle_size - 1) swaps
-                if (cycle_size > 1) {
-                    ans += (cycle_size - 1);
-                }
+
             }
         }
 
