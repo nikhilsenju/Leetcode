@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/nikhilsenju/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhilsenju/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1772-create-sorted-array-through-instructions](https://github.com/nikhilsenju/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhilsenju/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/nikhilsenju/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/nikhilsenju/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nikhilsenju/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/nikhilsenju/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilsenju/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhilsenju/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsenju/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/nikhilsenju/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nikhilsenju/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilsenju/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhilsenju/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsenju/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/nikhilsenju/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/nikhilsenju/Leetcode/tree/master/2465-shifting-letters-ii) |
