@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/nikhilsenju/Leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/nikhilsenju/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/nikhilsenju/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhilsenju/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1772-create-sorted-array-through-instructions](https://github.com/nikhilsenju/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhilsenju/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/nikhilsenju/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1524-string-matching-in-an-array](https://github.com/nikhilsenju/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilsenju/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhilsenju/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsenju/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsenju/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/nikhilsenju/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
