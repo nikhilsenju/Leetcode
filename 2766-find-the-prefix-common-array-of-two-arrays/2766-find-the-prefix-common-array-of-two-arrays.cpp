@@ -3,18 +3,16 @@ public:
     vector<int> findThePrefixCommonArray(vector<int>& a, vector<int>& b) {
         int n = a.size();
         vector<int> ans;
+        vector<int> freq(n+1,0);
+        int cnt=0;
         for(int i=0;i<n;i++){
-            set<int> st;
-            int count=0;
-            for(int j=0;j<=i;j++){
-                st.insert(a[j]);
+            freq[a[i]]++;
+            if(freq[a[i]]==2){cnt++;}
+            freq[b[i]]++;
+            if(freq[b[i]]==2){
+                cnt++;
             }
-            for(int j=0;j<=i;j++){
-                if(st.count(b[j])){
-                    count++;
-                }
-            }
-            ans.push_back(count);
+            ans.push_back(cnt);
         }
         return ans;
         
