@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/nikhilsenju/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0493-reverse-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/nikhilsenju/Leetcode/tree/master/0729-my-calendar-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nikhilsenju/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikhilsenju/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
