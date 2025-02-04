@@ -5,7 +5,7 @@ public:
             return grid[0][0];
         }
          if(i<0 || j<0){
-            return 1e18;
+            return 1e9;
         }
 
         if(dp[i][j]!=-1){
