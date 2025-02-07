@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nikhilsenju/Leetcode/tree/master/0139-word-break) |
 | [0218-the-skyline-problem](https://github.com/nikhilsenju/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/nikhilsenju/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/nikhilsenju/Leetcode/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nikhilsenju/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/nikhilsenju/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/nikhilsenju/Leetcode/tree/master/0854-making-a-large-island) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/nikhilsenju/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nikhilsenju/Leetcode/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/nikhilsenju/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilsenju/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
