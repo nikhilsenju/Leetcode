@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0494-target-sum) |
 | [0729-my-calendar-i](https://github.com/nikhilsenju/Leetcode/tree/master/0729-my-calendar-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/nikhilsenju/Leetcode/tree/master/0854-making-a-large-island) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nikhilsenju/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nikhilsenju/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0494-target-sum) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilsenju/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Dynamic Programming
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nikhilsenju/Leetcode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/nikhilsenju/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0494-target-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilsenju/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
