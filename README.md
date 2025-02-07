@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/nikhilsenju/Leetcode/tree/master/0729-my-calendar-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -232,12 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/nikhilsenju/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2509-minimize-xor](https://github.com/nikhilsenju/Leetcode/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhilsenju/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhilsenju/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilsenju/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
