@@ -4,18 +4,20 @@ public:
     vector<int> prezero;
     int cz;
     int prod;
-
     ProductOfNumbers() {
         prod = 1;
         cz = 0;
+        prezero.push_back(cz);
+        preprod.push_back(prod);
     }
     
     void add(int num) {
-        if (num == 0) {
-            prod = 1;
+        if(num==0){
+            prod=1;
             cz++;
-        } else {
-            prod *= num;
+        }
+        else{
+            prod = prod * num;
         }
         preprod.push_back(prod);
         prezero.push_back(cz);
@@ -23,10 +25,17 @@ public:
     
     int getProduct(int k) {
         int n = prezero.size();
-        if (k > n) return 0;  // Fix: Prevent out-of-bounds access
-        if (prezero[n - 1] - (n - k - 1 >= 0 ? prezero[n - k - 1] : 0) > 0) {
+        if(prezero[n-1]-prezero[n-k-1]>0){
             return 0;
         }
-        return (n - k - 1 >= 0) ? preprod[n - 1] / preprod[n - k - 1] : preprod[n - 1];
+        return preprod[n-1]/preprod[n-k-1];
+        
     }
 };
+
+/**
+ * Your ProductOfNumbers object will be instantiated and called as such:
+ * ProductOfNumbers* obj = new ProductOfNumbers();
+ * obj->add(num);
+ * int param_2 = obj->getProduct(k);
+ */
