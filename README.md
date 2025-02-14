@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilsenju/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/nikhilsenju/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/nikhilsenju/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/nikhilsenju/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/nikhilsenju/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/nikhilsenju/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/nikhilsenju/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/nikhilsenju/Leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/nikhilsenju/Leetcode/tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/nikhilsenju/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/nikhilsenju/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1955-seat-reservation-manager](https://github.com/nikhilsenju/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2429-design-a-food-rating-system](https://github.com/nikhilsenju/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/nikhilsenju/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilsenju/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhilsenju/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsenju/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/nikhilsenju/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1477-product-of-the-last-k-numbers](https://github.com/nikhilsenju/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/nikhilsenju/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -472,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/nikhilsenju/Leetcode/tree/master/0044-wildcard-matching) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/nikhilsenju/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
