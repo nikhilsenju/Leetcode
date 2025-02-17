@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/nikhilsenju/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0952-word-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/nikhilsenju/Leetcode/tree/master/1129-longest-string-chain) |
+| [1160-letter-tile-possibilities](https://github.com/nikhilsenju/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/nikhilsenju/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/nikhilsenju/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikhilsenju/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/nikhilsenju/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0952-word-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/nikhilsenju/Leetcode/tree/master/1129-longest-string-chain) |
+| [1160-letter-tile-possibilities](https://github.com/nikhilsenju/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilsenju/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilsenju/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/nikhilsenju/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/nikhilsenju/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/nikhilsenju/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/nikhilsenju/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nikhilsenju/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/nikhilsenju/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilsenju/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikhilsenju/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
