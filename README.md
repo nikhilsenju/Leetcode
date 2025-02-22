@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nikhilsenju/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0952-word-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/nikhilsenju/Leetcode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/nikhilsenju/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilsenju/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/nikhilsenju/Leetcode/tree/master/2531-create-components-with-same-value) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nikhilsenju/Leetcode/tree/master/0079-word-search) |
 | [0684-redundant-connection](https://github.com/nikhilsenju/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/nikhilsenju/Leetcode/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nikhilsenju/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/nikhilsenju/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikhilsenju/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
