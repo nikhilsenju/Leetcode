@@ -1,32 +1,49 @@
 class Solution {
 public:
-    vector<vector<int>> dp ;
-    bool poss1(vector<int>& v, int i, int t) {
-        if (t == 0)
-            return true;
-        if (t < 0)
-            return false;
-        if (i >= v.size())
-            return false;
-        if (dp[i][t] != -1)
-            return dp[i][t];
+    bool cansolve(vector<int>& nums, int ind, int tar, vector<vector<int>>& dp) {
+        if (tar == 0) return true;
+        if (ind == 0) return nums[ind] == tar;
+        if (dp[ind][tar] != -1) return dp[ind][tar];
 
-        return (dp[i][t] =
-                    (poss1(v, i + 1, t) || poss1(v, i + 1, t - v[i])));
+        bool nt = cansolve(nums, ind - 1, tar, dp);
+        bool tt = false;
+        if (tar >= nums[ind]) {
+            tt = cansolve(nums, ind - 1, tar - nums[ind], dp);
+        }
+        return dp[ind][tar] = tt || nt;
     }
 
     bool solve(int k, vector<vector<int>>& q, vector<int>& v) {
-        for (int i = 0; i < v.size(); i++) {
-            vector<int> tmp;
-            for (int j = 0; j < k; j++) {
-                if (i >= q[j][0] && i <= q[j][1]) {
-                    tmp.push_back(q[j][2]);
+        int n = v.size();
+        vector<vector<int>> vp(n + 1);
+
+        for (int i = 0; i <= k; i++) {
+            int st = q[i][0], en = q[i][1], val = q[i][2];
+            for (int j = st; j <= en; j++) {
+                vp[j].push_back(val);
+            }
+        }
+        cout<<k<<endl;
+        for(int i=0;i<n;i++){
+            cout<<i<<" ";
+            for(auto j:vp[i]){
+                cout<<j<<" ";
+            }
+            cout<<endl;
+        }
+
+        for (int i = 0; i < n; i++) {
+            if(vp[i].empty()){
+                if(v[i]!=0){
+                    return false;
                 }
             }
-            dp.clear();
-            dp.resize(tmp.size(), vector<int>(1e4 + 10, -1));
-            if (!poss1(tmp, 0, v[i])) {
-                return false;
+            if (!vp[i].empty()) { // Process non-empty vectors
+                int sumTarget = v[i];
+                vector<vector<int>> dp(vp[i].size(), vector<int>(sumTarget + 1, -1));
+                if (!cansolve(vp[i], vp[i].size() - 1, sumTarget, dp)) {
+                    return false;
+                }
             }
         }
         return true;
@@ -34,7 +51,15 @@ public:
 
     int minZeroArray(vector<int>& v, vector<vector<int>>& q) {
         int n = v.size(), m = q.size();
-        int lo = 0, hi = m, ans =m+10;
+        int lo = 0, hi = m - 1, ans = -1;
+        int sum=0;
+        for(auto i:v){
+            sum+=i;
+        
+        }
+        if(!sum){
+            return 0;
+        }
 
         while (hi >= lo) {
             int mid = (hi + lo) / 2;
@@ -45,6 +70,6 @@ public:
                 lo = mid + 1;
             }
         }
-        return ans<=m?ans:-1;
+        return ans==-1?-1:ans+1;
     }
 };
