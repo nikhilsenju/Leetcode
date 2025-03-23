@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nikhilsenju/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/nikhilsenju/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhilsenju/Leetcode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/nikhilsenju/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/nikhilsenju/Leetcode/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nikhilsenju/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nikhilsenju/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhilsenju/Leetcode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/nikhilsenju/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/nikhilsenju/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/nikhilsenju/Leetcode/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/nikhilsenju/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhilsenju/Leetcode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/nikhilsenju/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/nikhilsenju/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikhilsenju/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nikhilsenju/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/nikhilsenju/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhilsenju/Leetcode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/nikhilsenju/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/nikhilsenju/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/nikhilsenju/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
