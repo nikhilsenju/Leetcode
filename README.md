@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/nikhilsenju/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nikhilsenju/Leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/nikhilsenju/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nikhilsenju/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhilsenju/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/nikhilsenju/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/nikhilsenju/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nikhilsenju/Leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/nikhilsenju/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nikhilsenju/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/nikhilsenju/Leetcode/tree/master/0542-01-matrix) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nikhilsenju/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nikhilsenju/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhilsenju/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/nikhilsenju/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nikhilsenju/Leetcode/tree/master/0207-course-schedule) |
 | [1558-course-schedule-iv](https://github.com/nikhilsenju/Leetcode/tree/master/1558-course-schedule-iv) |
 ## Backtracking
 |  |
