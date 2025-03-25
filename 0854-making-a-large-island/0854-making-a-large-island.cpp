@@ -1,12 +1,9 @@
-
 class dsu {
 public:
     vector<long long> parent, size;
     long long Number_of_Nodes, Number_of_Groups, Max_Group;
 
-    dsu(long long Number_of_Nodes)
-        : Number_of_Nodes(Number_of_Nodes), Number_of_Groups(Number_of_Nodes),
-          Max_Group(1) {
+    dsu(long long Number_of_Nodes) : Number_of_Nodes(Number_of_Nodes), Number_of_Groups(Number_of_Nodes), Max_Group(1) {
         parent.resize(Number_of_Nodes + 1);
         size.resize(Number_of_Nodes + 1, 1);
         for (long long i = 1; i <= Number_of_Nodes; ++i) {
@@ -21,7 +18,9 @@ public:
         return parent[x];
     }
 
-    bool is_same_Group(long long x, long long y) { return up(x) == up(y); }
+    bool is_same_Group(long long x, long long y) {
+        return up(x) == up(y);
+    }
 
     void unionbysize(long long x, long long y) {
         long long leader1 = up(x);
@@ -37,54 +36,77 @@ public:
         }
     }
 
-    long long getsize(long long x) { return size[up(x)]; }
+    long long getsize(long long x) {
+        return size[up(x)];
+    }
 };
 
 class Solution {
 public:
     int largestIsland(vector<vector<int>>& grid) {
         int n = grid.size();
-        dsu ds(n * n + 1);
-        vector<int> row = {-1, 0, 1, 0};
-        vector<int> col = {0, 1, 0, -1};
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    for (int k = 0; k < 4; k++) {
-                        int nr = i + row[k];
-                        int nc = j + col[k];
-                        if (nr >= 0 && nr < n && nc >= 0 && nc < n &&
-                            grid[nr][nc] == 1) {
-                            ds.unionbysize(i * n + j, nr * n + nc);
-                        }
-                    }
+        int c = 0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++)
+            {
+                if(grid[i][j]==1){
+                    c++;
                 }
             }
         }
-        int maxi = -1;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0) {
+        if(c==0){
+            return 1;
+        }
+        if(c==n*n){
+            return n*n;
+        }
+        dsu ds(n*n+1);
+        // connect the graph
+        vector<int> dx= {-1,0,1,0};
+        vector<int> dy= {0,1,0,-1};
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1){
+                    int par = i*n+j;
+                    for(int k=0;k<4;k++){
+                        int nr = i+dx[k];
+                        int nc = j+dy[k];
+                        if(nr>=0 && nr<n && nc>=0 && nc<n && grid[nr][nc]==1){
+                            int child = nr*n+nc;
+                            ds.unionbysize(par,child);
+                        }
+                    }
+
+                }
+            }
+        }  
+        int maxi = 0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==0){
+                    int par = i*n+j;
                     set<int> st;
-                    for (int k = 0; k < 4; k++) {
-                        int nr = i + row[k];
-                        int nc = j + col[k];
-                        if (nr >= 0 && nr < n && nc >= 0 && nc < n &&
-                            grid[nr][nc] == 1) {
-                            st.insert(ds.up(nr * n + nc));
+                    int sz = 0;
+                    for(int k=0;k<4;k++){
+                        int nr = i+dx[k];
+                        int nc = j+dy[k];
+                        if(nr>=0 && nr<n && nc>=0 && nc<n && grid[nr][nc]==1){
+                            int child = nr*n+nc;
+                            st.insert(ds.up(child));
+
                         }
                     }
-                    int size = 0;
-                    for (auto k : st) {
-
-                        size += ds.getsize(k);
+                    for(auto k:st){
+                        sz+=ds.getsize(k);
                     }
+                    sz++;
+                    maxi=max(maxi,sz);
 
-                    size++;
-                    maxi = max(maxi, size);
                 }
             }
         }
-        return maxi == -1 ? n * n : maxi;
+        return maxi;      
+
+        
     }
 };
