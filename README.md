@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nikhilsenju/Leetcode/tree/master/0079-word-search) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/nikhilsenju/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0090-subsets-ii) |
