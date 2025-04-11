@@ -578,10 +578,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/nikhilsenju/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikhilsenju/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/nikhilsenju/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [2531-create-components-with-same-value](https://github.com/nikhilsenju/Leetcode/tree/master/2531-create-components-with-same-value) |
+| [2998-count-symmetric-integers](https://github.com/nikhilsenju/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
