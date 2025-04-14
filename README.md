@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhilsenju/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nikhilsenju/Leetcode/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0334-increasing-triplet-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/nikhilsenju/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/nikhilsenju/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nikhilsenju/Leetcode/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsenju/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
