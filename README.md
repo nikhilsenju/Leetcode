@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/nikhilsenju/Leetcode/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/nikhilsenju/Leetcode/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsenju/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/nikhilsenju/Leetcode/tree/master/0721-accounts-merge) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/nikhilsenju/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/nikhilsenju/Leetcode/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsenju/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/nikhilsenju/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
