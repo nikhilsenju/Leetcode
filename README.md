@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/nikhilsenju/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nikhilsenju/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/nikhilsenju/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nikhilsenju/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2531-create-components-with-same-value](https://github.com/nikhilsenju/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhilsenju/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/nikhilsenju/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/nikhilsenju/Leetcode/tree/master/0859-design-circular-deque) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nikhilsenju/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nikhilsenju/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Doubly-Linked List
 |  |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilsenju/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nikhilsenju/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/nikhilsenju/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nikhilsenju/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nikhilsenju/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -830,4 +833,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilsenju/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikhilsenju/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nikhilsenju/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nikhilsenju/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
