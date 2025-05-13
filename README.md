@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikhilsenju/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsenju/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nikhilsenju/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/nikhilsenju/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsenju/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Trie
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nikhilsenju/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsenju/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikhilsenju/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/nikhilsenju/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilsenju/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/nikhilsenju/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3795-zero-array-transformation-iv](https://github.com/nikhilsenju/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 ## Combinatorics
 |  |
