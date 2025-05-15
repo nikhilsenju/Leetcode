@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/nikhilsenju/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikhilsenju/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilsenju/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nikhilsenju/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nikhilsenju/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/nikhilsenju/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nikhilsenju/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsenju/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilsenju/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsenju/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nikhilsenju/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/nikhilsenju/Leetcode/tree/master/3447-clear-digits) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/nikhilsenju/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nikhilsenju/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/nikhilsenju/Leetcode/tree/master/2509-minimize-xor) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilsenju/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilsenju/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/nikhilsenju/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilsenju/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3795-zero-array-transformation-iv](https://github.com/nikhilsenju/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 ## Combinatorics
