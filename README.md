@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nikhilsenju/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/nikhilsenju/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilsenju/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/nikhilsenju/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/nikhilsenju/Leetcode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhilsenju/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nikhilsenju/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/nikhilsenju/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilsenju/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/nikhilsenju/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/nikhilsenju/Leetcode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/nikhilsenju/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nikhilsenju/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilsenju/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/nikhilsenju/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhilsenju/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhilsenju/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/nikhilsenju/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/nikhilsenju/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/nikhilsenju/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilsenju/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
