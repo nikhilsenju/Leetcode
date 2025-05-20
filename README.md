@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikhilsenju/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nikhilsenju/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/nikhilsenju/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/nikhilsenju/Leetcode/tree/master/3651-transformed-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nikhilsenju/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/nikhilsenju/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsenju/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nikhilsenju/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/nikhilsenju/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nikhilsenju/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Monotonic Stack
