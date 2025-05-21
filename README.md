@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0057-insert-interval](https://github.com/nikhilsenju/Leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nikhilsenju/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nikhilsenju/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilsenju/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/nikhilsenju/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nikhilsenju/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/nikhilsenju/Leetcode/tree/master/0127-word-ladder) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nikhilsenju/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nikhilsenju/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nikhilsenju/Leetcode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0407-trapping-rain-water-ii) |
