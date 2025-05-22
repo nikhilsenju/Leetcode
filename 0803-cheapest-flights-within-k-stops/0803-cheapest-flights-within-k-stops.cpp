@@ -16,6 +16,9 @@ public:
         queue<inf> q;
         q.push(inf(0, src));
         dis[src][0] = 0;
+        for(int i=1;i<=k;i++){
+            dis[src][i]=0;
+        }
 
         while (!q.empty()) {
             auto it = q.front();
