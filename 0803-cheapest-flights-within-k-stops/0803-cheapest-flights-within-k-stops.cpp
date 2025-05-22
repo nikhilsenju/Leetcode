@@ -1,44 +1,46 @@
 class Solution {
 public:
-    struct inf {
-        int stop;
-        int node;
-        inf(int stop, int node) : stop(stop), node(node) {}
+    struct Node{
+        int stops;
+        int cell;
+        int weight;
+        Node(int stops,int cell,int weight):stops(stops),cell(cell),weight(weight){}
     };
-    
-    int findCheapestPrice(int n, vector<vector<int>>& v, int src, int dst, int k) {
-        vector<vector<pair<int, int>>> adj(n);
-        for (auto i : v) {
-            adj[i[0]].push_back({i[1], i[2]});
+    int findCheapestPrice(int n, vector<vector<int>>& f, int src, int dst, int k) {
+        vector<vector<pair<int,int>>> adj(n);
+        for(auto i:f){
+            int u = i[0];
+            int v = i[1];
+            int wt = i[2];
+            adj[u].push_back({v,wt});
+        } 
+        vector<vector<int>> dp(n,vector<int>(k+2,1e9));
+        for(int i=0;i<=k;i++)
+        {
+            dp[src][i]=0;
         }
-        
-        vector<vector<int>> dis(n, vector<int>(k + 2, 1e9));
-        queue<inf> q;
-        q.push(inf(0, src));
-        dis[src][0] = 0;
-        for(int i=1;i<=k;i++){
-            dis[src][i]=0;
-        }
-
-        while (!q.empty()) {
+        queue<Node>q;
+        q.push(Node(0,src,0));
+        while(!q.empty()){
             auto it = q.front();
             q.pop();
-            int stops = it.stop;
-            int node = it.node;
-
-            if (stops > k) continue;
-
-            for (auto i : adj[node]) {
-                int ngh = i.first;
-                int wt = i.second;
-                if (dis[ngh][stops + 1] > dis[node][stops] + wt) {
-                    dis[ngh][stops + 1] = dis[node][stops] + wt;
-                    q.push(inf(stops + 1, ngh));
+            int stops = it.stops;
+            int cell = it.cell;
+            int weight = it.weight;
+            if(stops>k){
+                continue;
+            }
+            for(auto j:adj[cell]){
+                int ngh = j.first;
+                int wt = j.second;
+                if(dp[ngh][stops+1]>dp[cell][stops]+wt){
+                    dp[ngh][stops+1]=dp[cell][stops]+wt;
+                    q.push(Node(stops+1,ngh,dp[ngh][stops+1]));
                 }
             }
         }
+        int mini = *min_element(dp[dst].begin(),dp[dst].end());
+        return mini==1e9?-1:mini;
         
-        int mini = *min_element(dis[dst].begin(), dis[dst].end());
-        return mini == 1e9 ? -1 : mini;
     }
 };
