@@ -11,23 +11,19 @@
  */
 class Solution {
 public:
-    int maxi=-1e9;
-    int sum(TreeNode * root){
+    int maxsum = -1e9;
+    int dfs(TreeNode * root){
         if(!root){
             return 0;
         }
-        int lf = sum(root->left);
-        int rg = sum(root->right);
-        lf = max(0,lf);
-        rg = max(0,rg);
-        maxi = max(maxi,root->val+rg+lf);
-        return root->val+max(lf,rg);
+        int lh = max(0,dfs(root->left));
+        int rh = max(0,dfs(root->right));
+        maxsum = max(maxsum,lh+rh+root->val);
+        return root->val + max(lh,rh);
 
     }
     int maxPathSum(TreeNode* root) {
-        sum(root);
-        return maxi;
-
-        
+        dfs(root);
+        return maxsum;
     }
 };
