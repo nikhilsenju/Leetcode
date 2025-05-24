@@ -11,18 +11,18 @@
  */
 class Solution {
 public:
-    map<int,map<int,multiset<int>>>mp;
-    void dfs(TreeNode *root,int i,int j){
+    void dfs(TreeNode * root, int left,int top,map<int,map<int,multiset<int>>>&mp){
         if(!root){
             return;
         }
-        dfs(root->left,i+1,j-1);
-        mp[j][i].insert(root->val);
-        dfs(root->right,i+1,j+1);
+        mp[left][top].insert(root->val);
+        dfs(root->left,left-1,top+1,mp);
+        dfs(root->right,left+1,top+1,mp);
     }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        dfs(root,0,0);
-        vector<vector<int>> ans;
+        map<int,map<int,multiset<int>>>mp;
+        dfs(root,0,0,mp);
+        vector<vector<int>> vp;
         for(auto i:mp){
             vector<int> tmp;
             for(auto j:i.second){
@@ -30,9 +30,8 @@ public:
                     tmp.push_back(k);
                 }
             }
-            ans.push_back(tmp);
+            vp.push_back(tmp);
         }
-        return ans;
-
+        return vp;
     }
 };
