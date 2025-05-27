@@ -1,12 +1,9 @@
 class Solution {
 public:
     int differenceOfSums(int n, int m) {
-        int sum = 0;
-        int diff = 0;
-        for(int i=0;i<=n;i++){
-            sum+=(i%m==0?0:i);
-            diff+=(i%m==0?i:0);
-        }
-        return sum-diff;
+        int sum1 = n*(n+1)/2;
+        int sum2 = m*(n/m)*(n/m+1);
+        return sum1-sum2;
+        
     }
 };
