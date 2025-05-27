@@ -8,7 +8,7 @@ public:
           Max_Group(1) {
         parent.resize(Number_of_Nodes + 1);
         size.resize(Number_of_Nodes + 1, 1);
-        for (long long i = 1; i <= Number_of_Nodes; ++i) {
+        for (long long i = 0; i <= Number_of_Nodes; ++i) {
             parent[i] = i;
         }
     }
@@ -42,8 +42,8 @@ public:
 class Solution {
 public:
     int numberOfGoodPaths(vector<int>& vals, vector<vector<int>>& edges) {
-        map<int, vector<int>> mp;
-        map<int,vector<int>> adj;
+        unordered_map<int, vector<int>> mp;
+        unordered_map<int,vector<int>> adj;
         for (int i = 0; i < vals.size(); i++) {
             mp[vals[i]].push_back(i);
         }
@@ -53,25 +53,31 @@ public:
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-
         int n = vals.size();
-        int ans = 0;
+        long long ans = 0;
         dsu ds(n);
-        for(auto i:mp){
-            for(auto j:i.second){
-                for(auto k:adj[j]){
-                    if(vals[k]<=vals[j]){
-    
-                        ds.unionbysize(j,k);
+        vector<int> sortedValues;
+        for (auto& entry : mp) {
+            sortedValues.push_back(entry.first);
+        }
+        sort(sortedValues.begin(), sortedValues.end());
+        for (int val : sortedValues) {
+            auto& nodes = mp[val];
+            for (int j : nodes) {
+                for (int k : adj[j]) {
+                    if (vals[k] <= val) {
+                        ds.unionbysize(j, k);
                     }
                 }
             }
-            map<int,int> res;
-            for(auto j:i.second){
-                res[ds.up(j)]++;
-                ans+=res[ds.up(j)];
+            map<int, int> groupCount;
+            for (int j : nodes) {
+                groupCount[ds.up(j)]++;
             }
-
+            for (auto& entry : groupCount) {
+                int count = entry.second;
+                ans += (long long)count * (count + 1) / 2;
+            }
         }
         return ans;
     }
