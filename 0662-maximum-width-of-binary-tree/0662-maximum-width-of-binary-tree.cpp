@@ -1,7 +1,7 @@
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
- *     long long val;
+ *     int val;
  *     TreeNode *left;
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
@@ -12,35 +12,39 @@
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
+        if(!root){
+            return 0;
+        }
+        queue<pair<TreeNode *,int>>q;
+        q.push({root,0});
         long long maxi = 0;
-        queue<pair<TreeNode*,long long>>pq;
-        pq.push({root,1});
-        while(!pq.empty()){
-            long long sz = pq.size();
-            long long l = INT_MAX;
-            long long r = INT_MIN;
-            long long mmin = pq.front().second;
-            for(long long j=0;j<sz;j++){
-                auto it = pq.front();
-                pq.pop();
-                TreeNode * cur = it.first;
-                long long val = it.second-mmin;
-                if(cur){
-                    l = min(l,val);
-                    r = max(r,val);
-                    if(cur->left){
-                        pq.push({cur->left,2*val});
-                    }
-                    if(cur->right){
-                        pq.push({cur->right,2*val+1});
-                    }
+        while(!q.empty()){
+            long long sz = q.size();
+            long long lf = q.front().second;
+            long long left = 0;
+            long long right = 0;
+            for(int i=0;i<sz;i++){
+                auto it = q.front();
+                q.pop();
+                TreeNode* node = it.first;
+                long long val = it.second-lf;
+                if(i==0){
+                    left=val;
+                }
+                if(i==sz-1){
+                    right = val;
+                }
+                if(node->left){
+                    q.push({node->left,2*val});
+                }
+                if(node->right){
+                    q.push({node->right,2*val+1});
                 }
             }
-            if(r>=l){
-                maxi = max(maxi,r-l+1);
-            }
+            cout<<lf<<" "<<right<<endl;
+            maxi = max(maxi,right-left+1);
         }
         return maxi;
-        
+
     }
 };
