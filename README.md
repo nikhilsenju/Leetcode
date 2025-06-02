@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nikhilsenju/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/nikhilsenju/Leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/nikhilsenju/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/nikhilsenju/Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nikhilsenju/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilsenju/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/nikhilsenju/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/nikhilsenju/Leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nikhilsenju/Leetcode/tree/master/0605-can-place-flowers) |
