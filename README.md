@@ -931,4 +931,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nikhilsenju/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nikhilsenju/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
