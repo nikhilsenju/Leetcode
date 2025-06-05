@@ -947,4 +947,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/nikhilsenju/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/nikhilsenju/Leetcode/tree/master/0619-biggest-single-number) |
 | [1179-game-play-analysis-i](https://github.com/nikhilsenju/Leetcode/tree/master/1179-game-play-analysis-i) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/nikhilsenju/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
