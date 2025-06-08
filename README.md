@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nikhilsenju/Leetcode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/nikhilsenju/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhilsenju/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhilsenju/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nikhilsenju/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nikhilsenju/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/nikhilsenju/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nikhilsenju/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilsenju/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
