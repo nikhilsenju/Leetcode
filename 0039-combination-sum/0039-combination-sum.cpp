@@ -1,34 +1,25 @@
 class Solution {
 public:
-   void f(int ind, int tar, vector<int>& c, vector<int>& ds, set<vector<int>>& st) {
-       // Base case: if we have reached the end of the array
-       if (ind == c.size()) {
-           if (tar == 0) {
-               st.insert(ds);
-           }
-           return;  // Exit the function to prevent further execution
-       }
+    void solve(int ind ,int tar,vector<int>&v,vector<vector<int>>&ans,vector<int>&tmp){
+        if(ind==v.size()){
+            if(tar==0){
+                ans.push_back(tmp);
+            }
+            return;
+        }    
 
-       // Choose the current element if it's less than or equal to the target
-       if (c[ind] <= tar) {
-           ds.push_back(c[ind]);
-           f(ind, tar - c[ind], c, ds, st);  // Recursive call with the same index
-           ds.pop_back();  // Backtrack
-       }
+        if(tar>=v[ind]){
+            tmp.push_back(v[ind]);
+            solve(ind,tar-v[ind],v,ans,tmp);
+            tmp.pop_back();
+        }
+        solve(ind+1,tar,v,ans,tmp);
+    }
+    vector<vector<int>> combinationSum(vector<int>& candidates, int tar) {
+        vector<vector<int>>ans;
+        vector<int> tmp;
+        solve(0,tar,candidates,ans,tmp);
+        return ans;
 
-       // Skip the current element and move to the next
-       f(ind + 1, tar, c, ds, st);
-   }
-
-   vector<vector<int>> combinationSum(vector<int>& c, int t) {
-       sort(c.begin(), c.end());
-       vector<vector<int>> ans;
-       set<vector<int>> st;
-       vector<int> ds;
-       f(0, t, c, ds, st);
-       for (auto& i : st) {
-           ans.push_back(i);
-       }
-       return ans;
-   }
+    }
 };
