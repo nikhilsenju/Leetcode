@@ -1,22 +1,26 @@
 class Solution {
 public:
-    bool f(int i, int j, vector<vector<char>>& board, string& word, int ind) {
-        if (ind == word.size()) {
-            return true;
-        }
-        if (i < 0 || i >= board.size() || j < 0 || j >= board[0].size() ||
-            board[i][j] != word[ind]) {
+    vector<int> dr = {-1, 0, 1, 0};
+    vector<int> dc = {0, 1, 0, -1};
+    bool dfs(int r, int c, vector<vector<char>>& board, string& word, int idx) {
+        if (r < 0 || r >=board.size() || c < 0 || c >=board[0].size() || 
+            board[r][c] != word[idx]) {
             return false;
         }
-
-        char c = board[i][j];
-        board[i][j] = 'V';
-        bool ans = (f(i + 1, j, board, word, ind + 1) ||
-                    f(i - 1, j, board, word, ind + 1) ||
-                    f(i, j + 1, board, word, ind + 1) ||
-                    f(i, j - 1, board, word, ind + 1));
-        board[i][j] = c;
-        return ans;
+        if (idx == word.size()-1 && word[idx]==board[r][c]) {
+            return true;
+        }
+        char tmp = board[r][c];
+        board[r][c] = '.';
+        for (int k = 0; k < 4; k++) {
+            int nr = r + dr[k];
+            int nc = c + dc[k];
+            if (dfs(nr, nc, board, word, idx + 1)) {
+                return true;
+            }
+        }
+        board[r][c] = tmp;
+        return false;
     }
     bool exist(vector<vector<char>>& board, string word) {
         int n = board.size();
@@ -24,7 +28,7 @@ public:
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (board[i][j] == word[0]) {
-                    if (f(i, j, board, word, 0)) {
+                    if (dfs(i, j, board, word, 0)) {
                         return true;
                     }
                 }
