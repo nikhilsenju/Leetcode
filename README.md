@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nikhilsenju/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3795-zero-array-transformation-iv](https://github.com/nikhilsenju/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
+| [3906-kth-smallest-path-xor-sum](https://github.com/nikhilsenju/Leetcode/tree/master/3906-kth-smallest-path-xor-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/nikhilsenju/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nikhilsenju/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/nikhilsenju/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3906-kth-smallest-path-xor-sum](https://github.com/nikhilsenju/Leetcode/tree/master/3906-kth-smallest-path-xor-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilsenju/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
+| [3906-kth-smallest-path-xor-sum](https://github.com/nikhilsenju/Leetcode/tree/master/3906-kth-smallest-path-xor-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilsenju/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
+| [3906-kth-smallest-path-xor-sum](https://github.com/nikhilsenju/Leetcode/tree/master/3906-kth-smallest-path-xor-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
