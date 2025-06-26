@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilsenju/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/nikhilsenju/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/nikhilsenju/Leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nikhilsenju/Leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nikhilsenju/Leetcode/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilsenju/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhilsenju/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0392-is-subsequence) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/nikhilsenju/Leetcode/tree/master/0044-wildcard-matching) |
+| [0234-palindrome-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nikhilsenju/Leetcode/tree/master/0394-decode-string) |
 ## Data Stream
 |  |
