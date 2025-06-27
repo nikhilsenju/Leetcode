@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikhilsenju/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsenju/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/nikhilsenju/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilsenju/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilsenju/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nikhilsenju/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nikhilsenju/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/nikhilsenju/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikhilsenju/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilsenju/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilsenju/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilsenju/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nikhilsenju/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/nikhilsenju/Leetcode/tree/master/0876-hand-of-straights) |
 | [1502-construct-k-palindrome-strings](https://github.com/nikhilsenju/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilsenju/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilsenju/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilsenju/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhilsenju/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nikhilsenju/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/nikhilsenju/Leetcode/tree/master/1656-count-good-triplets) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilsenju/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2531-create-components-with-same-value](https://github.com/nikhilsenju/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2998-count-symmetric-integers](https://github.com/nikhilsenju/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilsenju/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilsenju/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhilsenju/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/nikhilsenju/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilsenju/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nikhilsenju/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/nikhilsenju/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikhilsenju/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
