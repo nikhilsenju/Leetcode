@@ -21,17 +21,30 @@ public:
     }
     string longestSubsequenceRepeatedK(string s, int k) {
         int n = s.size();
+        vector<int> freq(26);
+        for(auto i:s){
+            freq[i-'a']++;
+        } 
+        for(int i=0;i<26;i++){
+            if(freq[i]<k){
+                freq[i]=0;
+            }
+            else{
+                freq[i]=freq[i]/k;
+            }
+        }
         queue<string>q;
         q.push("");
         string ans;
         while(!q.empty()){
             auto it = q.front();
             q.pop();
-            for(char ch = 'a';ch<='z';ch++){
+            for(char ch = 'z';ch>='a';ch--){
+                if(freq[ch-'a']==0){continue;}
                 string tmp = it+ch;
                 if(issub(tmp,s,k)){
                     q.push(tmp);
-                    if(ans.size()<tmp.size() || tmp>ans){
+                    if(ans.size()<tmp.size()){
                         ans = tmp;
                     }
                 }
