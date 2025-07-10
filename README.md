@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilsenju/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/nikhilsenju/Leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Merge Sort
 |  |
 | ------- |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/nikhilsenju/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikhilsenju/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nikhilsenju/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/nikhilsenju/Leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilsenju/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilsenju/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/nikhilsenju/Leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Union Find
 |  |
 | ------- |
