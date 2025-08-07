@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nikhilsenju/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilsenju/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3791-fruits-into-baskets-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-zero-array-transformation-iv](https://github.com/nikhilsenju/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3906-kth-smallest-path-xor-sum](https://github.com/nikhilsenju/Leetcode/tree/master/3906-kth-smallest-path-xor-sum) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nikhilsenju/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-create-sorted-array-through-instructions](https://github.com/nikhilsenju/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/nikhilsenju/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nikhilsenju/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3791-fruits-into-baskets-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/nikhilsenju/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nikhilsenju/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/nikhilsenju/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3791-fruits-into-baskets-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3906-kth-smallest-path-xor-sum](https://github.com/nikhilsenju/Leetcode/tree/master/3906-kth-smallest-path-xor-sum) |
 ## Linked List
 |  |
