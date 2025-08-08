@@ -1,41 +1,41 @@
 class Solution {
 public:
+    long long dfs(int node, int par, long long val, vector<vector<int>>& adj, vector<int>& nums) {
+        long long sum = 0;
+        for (auto i : adj[node]) {
+            if (i != par) {
+                long long ch = dfs(i, node, val, adj, nums);
+                if (ch == LLONG_MAX) return LLONG_MAX;
+                sum += ch;
+            }
+        }
+        sum += nums[node];
+        if (sum == val) return 0;
+        if (sum > val) return LLONG_MAX;
+        return sum;
+    }
+
     int componentValue(vector<int>& nums, vector<vector<int>>& edges) {
         int n = nums.size();
         vector<vector<int>> adj(n);
-        for (auto i : edges) {
-            adj[i[0]].push_back(i[1]);
-            adj[i[1]].push_back(i[0]);
+        for (auto& e : edges) {
+            int u = e[0];
+            int v = e[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
 
-        int st = 0, last = 0;
-        for (auto i : nums) {
-            last += i;
-            st = max(st, i);
-        }
+        long long st = *max_element(nums.begin(), nums.end());
+        long long end = accumulate(nums.begin(), nums.end(), 0LL);
 
-        function<int(int, int, int)> dfs = [&](int node, int par, int sum) {
-            int cursum = nums[node];
-            for (auto it : adj[node]) {
-                if (it != par) {
-                    cursum += dfs(it, node, sum);
-                }
-            }
-            if (cursum == sum) {
-                return 0;  // Reset this subtree
-            }
-            return cursum;  // Propagate current sum upwards
-        };
-
-        for (int i = st; i<=last; i++) {
-            if (last % i == 0) {
-                int comp = last / i;
-                if (dfs(0, -1, i) == 0) {
+        for (long long ele = st; ele <= end; ele++) {
+            if (end % ele == 0) {
+                if (dfs(0, -1, ele, adj, nums) == 0) {
+                    long long comp = end / ele;
                     return comp - 1;
                 }
             }
         }
-
-        return -1;  // No valid division found
+        return -1;
     }
 };
