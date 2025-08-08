@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1248-binary-tree-coloring-game](https://github.com/nikhilsenju/Leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/nikhilsenju/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2505-number-of-good-paths](https://github.com/nikhilsenju/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2531-create-components-with-same-value](https://github.com/nikhilsenju/Leetcode/tree/master/2531-create-components-with-same-value) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/nikhilsenju/Leetcode/tree/master/1656-count-good-triplets) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/nikhilsenju/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilsenju/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2531-create-components-with-same-value](https://github.com/nikhilsenju/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2998-count-symmetric-integers](https://github.com/nikhilsenju/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/nikhilsenju/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhilsenju/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nikhilsenju/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/nikhilsenju/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhilsenju/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsenju/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilsenju/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilsenju/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikhilsenju/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/nikhilsenju/Leetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/nikhilsenju/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nikhilsenju/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilsenju/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilsenju/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -998,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/nikhilsenju/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilsenju/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
