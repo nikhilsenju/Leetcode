@@ -10,11 +10,11 @@ public:
             int left = arr[mid] - (mid + 1); // missing count till arr[mid]
             if (k >left) {
                 lo = mid + 1;
-                ans = mid+1;
             } else {
+                ans = mid;
                 hi = mid - 1;
             }
         }
-        return ans+k;
+        return hi+k+1;
     }
 };
