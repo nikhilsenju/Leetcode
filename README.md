@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilsenju/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhilsenju/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nikhilsenju/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/nikhilsenju/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/nikhilsenju/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/nikhilsenju/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nikhilsenju/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/nikhilsenju/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1772-create-sorted-array-through-instructions](https://github.com/nikhilsenju/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilsenju/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2047-find-a-peak-element-ii](https://github.com/nikhilsenju/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nikhilsenju/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilsenju/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/nikhilsenju/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilsenju/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/nikhilsenju/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2047-find-a-peak-element-ii](https://github.com/nikhilsenju/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/nikhilsenju/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhilsenju/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
