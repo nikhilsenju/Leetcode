@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nikhilsenju/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/nikhilsenju/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhilsenju/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nikhilsenju/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/nikhilsenju/Leetcode/tree/master/0057-insert-interval) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsenju/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilsenju/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/nikhilsenju/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsenju/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhilsenju/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -975,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsenju/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/nikhilsenju/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/nikhilsenju/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -1040,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nikhilsenju/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nikhilsenju/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/nikhilsenju/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nikhilsenju/Leetcode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/0234-palindrome-linked-list) |
