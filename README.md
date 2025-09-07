@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nikhilsenju/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nikhilsenju/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nikhilsenju/Leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/nikhilsenju/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/nikhilsenju/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nikhilsenju/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nikhilsenju/Leetcode/tree/master/0139-word-break) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nikhilsenju/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/nikhilsenju/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/nikhilsenju/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nikhilsenju/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilsenju/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nikhilsenju/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
