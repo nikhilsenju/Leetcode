@@ -8,6 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     // Merge two sorted lists
@@ -49,5 +50,6 @@ public:
         }
 
         return prev;
+
     }
 };
