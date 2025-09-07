@@ -1,31 +1,53 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
+    // Merge two sorted lists
+    ListNode* merge(ListNode* prev, ListNode* cur) {
+        ListNode dummy(-1); // Dummy node to simplify list construction
+        ListNode* head = &dummy;
+
+        while (prev != nullptr && cur != nullptr) {
+            if (prev->val > cur->val) {
+                head->next = cur;
+                cur = cur->next;
+            } else {
+                head->next = prev;
+                prev = prev->next;
+            }
+            head = head->next;
+        }
+
+        // Attach the remaining part
+        if (prev != nullptr)
+            head->next = prev;
+        if (cur != nullptr)
+            head->next = cur;
+
+        return dummy.next;
+    }
+
+    // Merge k sorted lists
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector<int> v;
-        
-        // Collect values from all lists
-        for (auto i : lists) {
-            ListNode* start = i;
-            while (start != nullptr) {
-                v.push_back(start->val);
-                start = start->next;
+        ListNode* prev = nullptr;
+
+        for (auto cur : lists) {
+            if (!cur) continue; // Skip empty lists
+            if (!prev) {
+                prev = cur; // For the first list, just set prev = cur
+            } else {
+                prev = merge(prev, cur); // Merge with the accumulated list
             }
         }
 
-        // Edge case: If no elements were found
-        if (v.empty()) return nullptr;
-
-        // Sort the collected values
-        sort(v.begin(), v.end());
-
-        // Create the merged sorted list
-        ListNode* head = new ListNode(v[0]);
-        ListNode* tmp = head;
-        for (int i = 1; i < v.size(); i++) {
-            tmp->next = new ListNode(v[i]);
-            tmp = tmp->next;
-        }
-
-        return head;
+        return prev;
     }
 };
