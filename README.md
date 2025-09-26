@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nikhilsenju/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/nikhilsenju/Leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/nikhilsenju/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilsenju/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsenju/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/nikhilsenju/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilsenju/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/nikhilsenju/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/nikhilsenju/Leetcode/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/nikhilsenju/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/nikhilsenju/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nikhilsenju/Leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/nikhilsenju/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsenju/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/nikhilsenju/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nikhilsenju/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/nikhilsenju/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/nikhilsenju/Leetcode/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nikhilsenju/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/nikhilsenju/Leetcode/tree/master/0876-hand-of-straights) |
@@ -1062,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhilsenju/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nikhilsenju/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/nikhilsenju/Leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/nikhilsenju/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilsenju/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/nikhilsenju/Leetcode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/0908-middle-of-the-linked-list) |
