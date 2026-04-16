@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nikhilsenju/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nikhilsenju/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/nikhilsenju/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/nikhilsenju/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikhilsenju/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilsenju/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsenju/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3488-closest-equal-element-queries](https://github.com/nikhilsenju/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nikhilsenju/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nikhilsenju/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3488-closest-equal-element-queries](https://github.com/nikhilsenju/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhilsenju/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
