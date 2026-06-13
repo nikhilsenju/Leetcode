@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilsenju/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-zero-array-transformation-iv](https://github.com/nikhilsenju/Leetcode/tree/master/3795-zero-array-transformation-iv) |
+| [3838-weighted-word-mapping](https://github.com/nikhilsenju/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3906-kth-smallest-path-xor-sum](https://github.com/nikhilsenju/Leetcode/tree/master/3906-kth-smallest-path-xor-sum) |
 ## Hash Table
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilsenju/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3838-weighted-word-mapping](https://github.com/nikhilsenju/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhilsenju/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilsenju/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/nikhilsenju/Leetcode/tree/master/3651-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nikhilsenju/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/nikhilsenju/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
