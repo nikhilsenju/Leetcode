@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/nikhilsenju/Leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilsenju/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/nikhilsenju/Leetcode/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhilsenju/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/nikhilsenju/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nikhilsenju/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhilsenju/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikhilsenju/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
