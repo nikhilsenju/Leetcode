@@ -14,7 +14,7 @@ class Solution {
             cnt[i]+=cnt[i-1];
         }
         int []ans = new int[n];
-        for(int i=n-1;i>=0;i--){
+        for(int i=0;i<n;i++){
             ans[cnt[costs[i]]-1]=costs[i];
             cnt[costs[i]]--;
         }
