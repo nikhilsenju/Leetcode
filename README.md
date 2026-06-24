@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nikhilsenju/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/nikhilsenju/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1106,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nikhilsenju/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/nikhilsenju/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nikhilsenju/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3795-zero-array-transformation-iv](https://github.com/nikhilsenju/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 ## Combinatorics
