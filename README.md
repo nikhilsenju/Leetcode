@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nikhilsenju/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhilsenju/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nikhilsenju/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhilsenju/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikhilsenju/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/nikhilsenju/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhilsenju/Leetcode/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nikhilsenju/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikhilsenju/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilsenju/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -1014,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhilsenju/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilsenju/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/nikhilsenju/Leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Union Find
 |  |
@@ -1256,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhilsenju/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
