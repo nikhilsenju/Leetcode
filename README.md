@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikhilsenju/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/nikhilsenju/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nikhilsenju/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilsenju/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nikhilsenju/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nikhilsenju/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikhilsenju/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nikhilsenju/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nikhilsenju/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikhilsenju/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilsenju/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilsenju/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2531-create-components-with-same-value](https://github.com/nikhilsenju/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2998-count-symmetric-integers](https://github.com/nikhilsenju/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nikhilsenju/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilsenju/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nikhilsenju/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
