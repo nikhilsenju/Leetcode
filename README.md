@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nikhilsenju/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nikhilsenju/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikhilsenju/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/nikhilsenju/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/nikhilsenju/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nikhilsenju/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nikhilsenju/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nikhilsenju/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/nikhilsenju/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nikhilsenju/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhilsenju/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nikhilsenju/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhilsenju/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikhilsenju/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilsenju/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhilsenju/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nikhilsenju/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nikhilsenju/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nikhilsenju/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1271,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhilsenju/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
