@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/nikhilsenju/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/nikhilsenju/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/nikhilsenju/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nikhilsenju/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/nikhilsenju/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhilsenju/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/nikhilsenju/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilsenju/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3620-network-recovery-pathways](https://github.com/nikhilsenju/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/nikhilsenju/Leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Merge Sort
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilsenju/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/nikhilsenju/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/nikhilsenju/Leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Union Find
 |  |
@@ -1073,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/nikhilsenju/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhilsenju/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikhilsenju/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/nikhilsenju/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -1145,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/nikhilsenju/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nikhilsenju/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nikhilsenju/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -1289,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhilsenju/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/nikhilsenju/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
