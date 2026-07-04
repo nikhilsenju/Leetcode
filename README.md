@@ -802,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/nikhilsenju/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1766-tree-of-coprimes](https://github.com/nikhilsenju/Leetcode/tree/master/1766-tree-of-coprimes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhilsenju/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhilsenju/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/nikhilsenju/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/nikhilsenju/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilsenju/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/nikhilsenju/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhilsenju/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikhilsenju/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nikhilsenju/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhilsenju/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1287,11 +1289,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhilsenju/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhilsenju/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhilsenju/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhilsenju/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhilsenju/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhilsenju/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
