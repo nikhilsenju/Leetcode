@@ -947,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/nikhilsenju/Leetcode/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/nikhilsenju/Leetcode/tree/master/1656-count-good-triplets) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/nikhilsenju/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilsenju/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
