@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilsenju/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikhilsenju/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nikhilsenju/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/nikhilsenju/Leetcode/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nikhilsenju/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikhilsenju/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1243,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-tree-of-coprimes](https://github.com/nikhilsenju/Leetcode/tree/master/1766-tree-of-coprimes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nikhilsenju/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhilsenju/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nikhilsenju/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/nikhilsenju/Leetcode/tree/master/3715-sum-of-perfect-square-ancestors) |
 ## Sliding Window
 |  |
