@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-zero-array-transformation-iv](https://github.com/nikhilsenju/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3838-weighted-word-mapping](https://github.com/nikhilsenju/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3853-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3853-minimum-weighted-subgraph-with-the-required-paths-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3906-kth-smallest-path-xor-sum](https://github.com/nikhilsenju/Leetcode/tree/master/3906-kth-smallest-path-xor-sum) |
 ## Hash Table
 |  |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/nikhilsenju/Leetcode/tree/master/3651-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nikhilsenju/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/nikhilsenju/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/nikhilsenju/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nikhilsenju/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nikhilsenju/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nikhilsenju/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikhilsenju/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -1220,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nikhilsenju/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nikhilsenju/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilsenju/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bitmask
 |  |
 | ------- |
@@ -1246,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhilsenju/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikhilsenju/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/nikhilsenju/Leetcode/tree/master/3715-sum-of-perfect-square-ancestors) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhilsenju/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
